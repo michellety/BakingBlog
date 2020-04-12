@@ -58,7 +58,7 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer class="footer">
         © {new Date().getFullYear()}, Customized by
         {` `}
         <a href="https://github.com/michellety">M</a>

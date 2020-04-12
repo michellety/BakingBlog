@@ -6,8 +6,13 @@ description: "Hello World"
 
 This is the beginning! How exciting!
 
+
 > Fresh baked sourdough loaf.
 > Half whole wheate and baked in a dutch oven. 
 > Based of this recipe: [Best Sourdough Bread Recipe](https://www.acouplecooks.com/sourdough-bread-recipe-simplified-guide/).
 
 ![Sourdough Loaf](./loaf.jpeg)
+
+> *Finally the bread cooled enough to slice*
+
+![Sliced Bread](./sliced.jpeg)
