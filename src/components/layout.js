@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, withAssetPrefix } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
