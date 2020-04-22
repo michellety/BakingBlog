@@ -1,10 +1,10 @@
 ---
-title: First Post!
+title: First Post - Sourdough Loaf!
 date: "2020-04-09T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is the beginning! How exciting!
+One of my favorite types of bread to make-- a rustic style sourdough!
 
 
 > Fresh baked sourdough loaf.
